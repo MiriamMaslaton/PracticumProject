@@ -1,0 +1,23 @@
+.title {
+    color: rgb(227, 161, 197);
+}
+.example-card {
+    margin-top: 20%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    max-height: 530px;
+    max-width: 420px;
+}
+
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+}
+p{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-color: aquamarine;
+}

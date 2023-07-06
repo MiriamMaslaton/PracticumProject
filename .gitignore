@@ -1,0 +1,61 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# configs stubs
+.htaccess
+app/config/config.yml
+app/config/config.generic.js
+app/config/config.inc.php
+# unit testings
+phpunit*.phar
+tests/Coverage
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+web/assets/i18n/*
+!web/assets/i18n/.gitkeep
+
+# dependencies
+Client/client/node_modules
+/components
+composer.phar
+composer.lock
+package-lock.json
+bower_components
+vendor
+
+# IDEs and editors
+/.idea
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+Client/client/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+Client/client/.angular/cache
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db

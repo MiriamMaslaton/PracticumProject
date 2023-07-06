@@ -1,0 +1,17 @@
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.csproj.AssemblyReference.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.AssemblyInfoInputs.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.AssemblyInfo.cs
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Services.deps.json
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Services.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Services.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Common.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Repositories.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Common.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\bin\Debug\net6.0\Registration.Repositories.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.csproj.CopyComplete
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\refint\Registration.Services.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\Registration.Services.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Services\obj\Debug\net6.0\ref\Registration.Services.dll

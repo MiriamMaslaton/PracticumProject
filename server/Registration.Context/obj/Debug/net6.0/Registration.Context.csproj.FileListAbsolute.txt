@@ -1,0 +1,17 @@
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\bin\Debug\net6.0\Registration.Context.deps.json
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\bin\Debug\net6.0\Registration.Context.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\bin\Debug\net6.0\Registration.Context.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.csproj.AssemblyReference.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.AssemblyInfoInputs.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.AssemblyInfo.cs
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\refint\Registration.Context.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\ref\Registration.Context.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\bin\Debug\net6.0\Registration.Context.runtimeconfig.json
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.genruntimeconfig.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\bin\Debug\net6.0\Registration.Repositories.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\bin\Debug\net6.0\Registration.Repositories.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Context\obj\Debug\net6.0\Registration.Context.csproj.CopyComplete

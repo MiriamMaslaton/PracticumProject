@@ -1,0 +1,54 @@
+*{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+:host {
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.example-full-width{
+     width: 50%;
+     direction: rtl;
+     height: auto;
+}
+
+.addNewChild {
+     width: 60%;
+     height: auto;
+     direction: ltr;
+     margin: auto;
+     border:0cap;
+     border-color: aqua;
+     border-bottom-color: antiquewhite;
+     border-style: dotted double solid;
+}
+
+.example-button-row {
+     display: table-cell;
+     max-width: 600px;
+}
+
+#f{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+     margin-top: 10%;
+     margin-left: 28%;
+}
+
+h2{
+     color: rgb(20, 32, 255);
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+     color: rgb(60, 62, 103);
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.error {
+     color: rgb(242, 255, 0);
+}

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\bin\Debug\net6.0\Registration.Common.deps.json
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\bin\Debug\net6.0\Registration.Common.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\bin\Debug\net6.0\Registration.Common.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.AssemblyInfo.cs
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\refint\Registration.Common.dll
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\Registration.Common.pdb
+C:\Users\user\Documents\angular\RegistrationProject\Registration.Common\obj\Debug\net6.0\ref\Registration.Common.dll
